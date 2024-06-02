@@ -9,8 +9,8 @@ public class SavingsAccount extends Account{
 
 
         System.out.println("Minimum Balance:1000"+ this.getBalance());
-        System.out.println("Transaction Limit:5000"+ this.getTransactionLimit());
-        System.out.println(this.getInterest());
+
+
     }
 
 
