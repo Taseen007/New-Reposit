@@ -8,7 +8,7 @@ public class SavingsAccount extends Account{
     public void displayBob(){
 
 
-        System.out.println("Minimum Balance:1000"+ this.getBalance());
+
 
 
     }
